@@ -1,11 +1,10 @@
+body {
+  background-color: rgb(171, 84, 243);
+}
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
-body {
-  background-color: rgb(171, 84, 243);
-  font-family: arial;
 }
 .menu {
   background-color: deepskyblue;
@@ -31,4 +30,8 @@ a:hover {
   color: white;
   border-radius: 24px;
   padding: 20px;
+}
+.titulo {
+  color: aliceblue;
+  text-align: center;
 }
